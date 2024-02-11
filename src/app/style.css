@@ -1,0 +1,33 @@
+#nav-ul {
+    float: right;
+    position: relative;
+    right: auto;
+}
+
+#logo {
+    float: left;
+    padding: 7px;
+    width: 12rem;
+    text-align: center;
+
+}
+
+#input-search-header {
+    background-color: #ededed;
+    color: #434646;
+    height: 40px;
+    padding-left: 2rem;
+    outline-style: none;
+    border-radius: 5px;
+    width: 500px;
+    padding-left: 3rem;
+}
+
+select#select-categoria {
+    outline-style: none;
+    border: none;
+    padding: 12px;
+    /* -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none; */
+}
